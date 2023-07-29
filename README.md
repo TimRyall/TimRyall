@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I love everything to do with data!
-- ⚡ The projects I have worked on here explore different ways to transform, analyse and learn from data.
-- 🌱 I have several projects I am currently working on; each one looks at a new and interesting data set!
+- 🔭 Passionate about data-driven solutions and scalable data infrastructure.
+- 🌱 Always curious, with a love of learning something new every day.
+- ⚡ Located in Brisbane, Australia.
 
